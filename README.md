@@ -1,1 +1,1 @@
-# os-practicum
+# OS practicum
